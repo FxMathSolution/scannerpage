@@ -1,0 +1,8 @@
+{
+    "enabled": true,
+    "title": "Special Offer!",
+    "message": "Get 20% off your first purchase. Limited time only!",
+    "discountCode": "HARMONICS20",
+    "buttonText": "Claim Offer",
+    "buttonLink": "#pricing"
+}

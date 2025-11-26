@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "Understanding Harmonic Patterns in Forex Trading",
+        "excerpt": "Harmonic patterns are geometric price structures that can help traders identify potential reversals. Learn the basics of Gartley, Butterfly, and Bat patterns.",
+        "content": "<p>Harmonic trading combines patterns and math into a trading method that is precise and based on the premise that patterns repeat themselves. Harmonic trading attempts to predict future movements.</p><img src=\"assets/scanner-mockup.png\" alt=\"Harmonic Pattern Example\" style=\"width: 100%; border-radius: 8px; margin: 20px 0;\"><h3>The Gartley Pattern</h3><p>The Gartley pattern is the oldest recognized harmonic pattern. It was developed by H.M. Gartley. It is a retracement pattern that usually indicates a continuation of the overall trend.</p><h3>The Butterfly Pattern</h3><p>The Butterfly pattern is a reversal pattern often found at market extremes. It helps traders identify the end of a price movement.</p>",
+        "date": "2025-11-20",
+        "author": "FxMath Team",
+        "image": "assets/blog-1.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Top 5 Benefits of Automated Trading Scanners",
+        "excerpt": "Why spend hours staring at charts when a scanner can do it for you? Discover how automated tools can improve your trading efficiency and accuracy.",
+        "content": "<p>Automated trading scanners are essential tools for modern traders. They scan the markets 24/7, identifying opportunities that human eyes might miss.</p><ul><li><strong>Efficiency:</strong> Scanners can monitor hundreds of assets simultaneously.</li><li><strong>Emotion-Free:</strong> Automated tools remove emotional bias from trading decisions.</li><li><strong>Speed:</strong> Detect patterns the instant they form.</li></ul>",
+        "date": "2025-11-15",
+        "author": "FxMath Team",
+        "image": "assets/blog-2.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Risk Management Strategies for Harmonic Traders",
+        "excerpt": "Protecting your capital is just as important as making profits. Explore key risk management techniques tailored for harmonic pattern trading.",
+        "content": "<p>Effective risk management is the cornerstone of successful trading. When trading harmonic patterns, it's crucial to set proper Stop Loss and Take Profit levels.</p><p>Always use a risk-to-reward ratio of at least 1:2. This ensures that your winning trades can cover your losing ones.</p>",
+        "date": "2025-11-10",
+        "author": "FxMath Team",
+        "image": "assets/blog-3.jpg"
+    }
+]
